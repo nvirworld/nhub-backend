@@ -1,0 +1,3 @@
+[class*="login__Wrapper"] > section > section {
+    display: none !important;
+}
